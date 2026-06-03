@@ -1,0 +1,8 @@
+streamlit
+pandas
+pdfplumber
+openpyxl
+beautifulsoup4
+python-dateutil
+xlrd
+lxml
